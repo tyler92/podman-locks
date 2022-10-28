@@ -1,5 +1,5 @@
 # The small tool for debugging deadlocks in Podman
-Just run this tool without any arguments and observer output like this:
+Just run this tool without any arguments and observe output like this:
 
 ```sh
 Open libpod_rootless_lock_1000 ...
